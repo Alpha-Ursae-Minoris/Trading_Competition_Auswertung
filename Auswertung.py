@@ -278,7 +278,7 @@ if len(sys.argv) == 2:
                 #error message to user
                 print("Unknown command. Please try again.\n Available commands are:\n") 
                 #list of possible commands
-                print("upload \t run_all (not recommended)\t get_sharpe_ratio \t max_gains \t min_gains \t total_gains") 
+                print("upload \t run_all (not recommended)\t get_sharpe_ratio \t max_gains \t min_gains \t total_gains \t best_stock \t worst_stock") 
 
 
 else:
